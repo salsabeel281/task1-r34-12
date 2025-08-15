@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
+=======
 # Tasks for Round 34 Online
 
 This repository contains all training tasks for Round 34.
@@ -58,3 +62,4 @@ Create a pull request from your branch to the `dev` branch.
 | 4 | Commit | `"task1/r34-01: your message"` |
 | 5 | Push | `git push origin task1/r34-01` |
 | 6 | PR | Create PR to `dev` branch | 
+>>>>>>> 97d314c073632b8fbeaf6ed6ccc99d6bfe618e96
